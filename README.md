@@ -1,4 +1,4 @@
-# fuck-qingniandaxuexi
+# fuck-qingniandaxuexi（Xiao Qingqi）
 秒看青年大学习教程  
 第一步.打开这个链接debugmm.qq.com/?forcex5=true点开后，退出就行了，接着下一步  
 
@@ -13,4 +13,5 @@
 如果需要截图的话再输入代码去掉绿标  
 __vconsole.style.display="none";  
 
-以后每次青年大学习只需要进行输入代码就可以了
+以后每次青年大学习只需要进行输入代码就可以了  
+

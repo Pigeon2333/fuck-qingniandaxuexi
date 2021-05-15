@@ -1,4 +1,4 @@
-# fuck-qingniandaxuexi（Xiao Qingqi）
+# fuck-qingniandaxuexi
 秒看青年大学习教程 （真的很简单，如果你还看不懂的话建议你先去花10分钟看看脑子）  
 第一步.打开这个链接（要在微信内打开，在浏览器打开是无效的！！！）debugmm.qq.com/?forcex5=true 点开后，界面显示"force use x5 switch is on"就说明成功了，这时候退出就行了，接着下一步  
 
@@ -15,4 +15,5 @@ __vconsole.style.display="none";
 
 以后每次青年大学习只需要输入代码就可以了  
 不用谢，我叫雷锋（滑稽）
+——by Xiao Qingqi
 
